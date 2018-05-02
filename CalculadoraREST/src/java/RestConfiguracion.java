@@ -12,7 +12,7 @@ import javax.ws.rs.core.Application;
  *
  * @author yese
  */
-@ApplicationPath("app")
+@ApplicationPath("api")
 public class RestConfiguracion extends Application{
     
 }
